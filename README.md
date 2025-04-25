@@ -19,11 +19,14 @@ Populating...
 
 * Phylogenetic placement
 
-  - **Controlled length fragments.** Figures 3A and S6.
+  * Controlled length fragments
+    - Directory [controlled_fragments](https://github.com/noraracht/kf2vec_data/tree/main/controlled_fragments) contains multiple summary results that are inputs into the script [incomplete_genomes_git_fragments.R](https://github.com/noraracht/kf2vec_data/blob/main/controlled_fragments/incomplete_genomes_git_fragments.R) to produce diagrams in Figures 3A and S6.
   
-  - **Contigs.** Summary results for contig placement are provided in the file [summary_TOL_full_genome_contigs_six_models.pl_error.gz](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/summary_TOL_full_genome_contigs_six_models.pl_error.gz), which should be unarchived using `gunzip`. The resulting table serves as input to the script [placement_err_dev_queries_git_contigs.R](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/placement_err_dev_queries_git_contigs.R), which generates the diagrams shown in Figures 3B and S8–9.
+  * Contigs analysis
+    - Summary results for contig placement are provided in the file [summary_TOL_full_genome_contigs_six_models.pl_error.gz](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/summary_TOL_full_genome_contigs_six_models.pl_error.gz), which should be unarchived using `gunzip`. The resulting table serves as input to the script [placement_err_dev_queries_git_contigs.R](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/placement_err_dev_queries_git_contigs.R), which generates the diagrams shown in Figures 3B and S8–9.
     
-  - **HiFi reads.** Summary results for long-read placement are provided in the files [summary_hifi_six_models.pl_error_part1.csv.gz](https://github.com/noraracht/kf2vec_data/blob/main/hifi/summary_hifi_six_models.pl_error_part1.csv.gz) and [summary_hifi_six_models.pl_error_part2.csv.gz](https://github.com/noraracht/kf2vec_data/blob/main/hifi/summary_hifi_six_models.pl_error_part2.csv.gz), which should be unarchived using `gunzip`. hese files serve as input to the script [Summary_reads_placement_git_hifi.R](https://github.com/noraracht/kf2vec_data/blob/main/hifi/Summary_reads_placement_git_hifi.R), which produced Figures 3C and 3D.
+  * HiFi reads analysis
+    - Summary results for long-read placement are provided in the files [summary_hifi_six_models.pl_error_part1.csv.gz](https://github.com/noraracht/kf2vec_data/blob/main/hifi/summary_hifi_six_models.pl_error_part1.csv.gz) and [summary_hifi_six_models.pl_error_part2.csv.gz](https://github.com/noraracht/kf2vec_data/blob/main/hifi/summary_hifi_six_models.pl_error_part2.csv.gz), which should be unarchived using `gunzip`. hese files serve as input to the script [Summary_reads_placement_git_hifi.R](https://github.com/noraracht/kf2vec_data/blob/main/hifi/Summary_reads_placement_git_hifi.R), which produced Figures 3C and 3D.
     
 
     
