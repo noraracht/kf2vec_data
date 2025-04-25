@@ -13,11 +13,23 @@ Populating...
 <!---This section contains summary data tables and scripts we used to process them.--->
 
 * Placement of full genomes
+  * Variable k-mer length
+    - Fig2A
+  * Parameters
+    - Fig S1
+* Effect of divide and conquer
 
-* Comparison kf2vec vs CAFE 
-  - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
 
-* Phylogenetic placement
+* Comparison to other tools 
+
+  * Comparison to CAFE 
+    - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
+
+  * Comparison to DEPP
+     - The dire Figures 2E and 2F.
+
+
+* Placement of incomplete genomes
 
   * Controlled length fragments
     - The [controlled_fragments](https://github.com/noraracht/kf2vec_data/tree/main/controlled_fragments) directory contains multiple summary result files that serve as inputs to the script [incomplete_genomes_git_fragments.R](https://github.com/noraracht/kf2vec_data/blob/main/controlled_fragments/incomplete_genomes_git_fragments.R), which was used to produce the diagrams in Figures 3A and S6.
