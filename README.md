@@ -13,7 +13,7 @@ Populating...
 
 
 * Comparison kf2vec vs CAFE 
-  - Directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script used to generate plots shown in Fig. 2CD.
+  - Directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script[placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figs. 2CD.
     
 * Phylogenetic placement
-  - Placement of contigs. Directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script used to generate plots shown in Fig. 2CD.
+  - Placement of contigs. Directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results and the script used to create diagrams in Figs. 3B and S8-S9.
