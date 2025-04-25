@@ -20,7 +20,7 @@ Populating...
 * Effect of divide and conquer
 
 
-* Comparison to other tools 
+* Benchmarking
 
   * Comparison to CAFE 
     - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
@@ -30,11 +30,11 @@ Populating...
 
 
 * Placement of incomplete genomes
-
+  
   * Controlled length fragments
     - The [controlled_fragments](https://github.com/noraracht/kf2vec_data/tree/main/controlled_fragments) directory contains multiple summary result files that serve as inputs to the script [incomplete_genomes_git_fragments.R](https://github.com/noraracht/kf2vec_data/blob/main/controlled_fragments/incomplete_genomes_git_fragments.R), which was used to produce the diagrams in Figures 3A and S6.
   
-  * Contigs placement
+  * Contigs
     - Summary results for contig placement are provided in the file [summary_TOL_full_genome_contigs_six_models.pl_error.gz](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/summary_TOL_full_genome_contigs_six_models.pl_error.gz), which should be unarchived using `gunzip`. The resulting table serves as input to the script [placement_err_dev_queries_git_contigs.R](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/placement_err_dev_queries_git_contigs.R), which generates the diagrams shown in Figures 3B and S8–9.
     
   * HiFi reads
