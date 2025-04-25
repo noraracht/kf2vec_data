@@ -276,7 +276,7 @@ head(df_fin)
 # ADD CLASSIFICATION ACCURACY TO THE FRAGMENTED DATA
 # Claded, chunked - Computed clade
 #c1 =read.csv('/Users/nora/Documents/ml_metagenomics/tol_variable_k_resuls/k7_v37_8k_s28_TrainClassf_10K_TOL_ChunksExp_qChunks_v2_3_COMPUTED_CLADE/classes.out',header=TRUE, sep = '\t')
-#c1 =read.csv('k7_v37_8k_s28_TrainClassf_10K_TOL_ChunksExp_qChunks_v2_3_COMPUTED_CLADE_classes.out',header=TRUE, sep = '\t')
+c1 =read.csv('k7_v37_8k_s28_TrainClassf_10K_TOL_ChunksExp_qChunks_v2_3_COMPUTED_CLADE_classes.out',header=TRUE, sep = '\t')
 
 ######## SPLIT FILE AND WRITE INTO 4 FILES SO IT CAN FIT TO GITHUB
 # Assume you have a large dataframe called `c1`
@@ -294,11 +294,11 @@ head(df_fin)
 # READ SPLIT CHUNKS
 
 # Read all 4 parts
-df_list <- lapply(1:4, function(i) read.csv(paste0("k7_v37_8k_s28_TrainClassf_10K_TOL_ChunksExp_qChunks_v2_3_COMPUTED_CLADE_classes_part_", i, ".csv")))
+#df_list <- lapply(1:4, function(i) read.csv(paste0("k7_v37_8k_s28_TrainClassf_10K_TOL_ChunksExp_qChunks_v2_3_COMPUTED_CLADE_classes_part_", i, ".csv")))
 
 # Combine them back into one dataframe
 #new_c1 <- do.call(rbind, df_list)
-c1 <- do.call(rbind, df_list)
+#c1 <- do.call(rbind, df_list)
 
 #all.equal(c1,new_c1)
 #nrow(c1)
@@ -330,7 +330,7 @@ nrow(cdt1[cdt1$top_class==cdt1$clade,])
 
 # Claded, unchunked - Computed clade
 #c2 =read.csv('/Users/nora/Documents/ml_metagenomics/tol_variable_k_resuls/k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24_qChunks_v2_3_COMPUTED_CLADE/classes.out',header=TRUE, sep = '\t')
-#c2 =read.csv('k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24_qChunks_v2_3_COMPUTED_CLADE_classes.out',header=TRUE, sep = '\t')
+c2 =read.csv('k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24_qChunks_v2_3_COMPUTED_CLADE_classes.out',header=TRUE, sep = '\t')
 
 ######## SPLIT FILE AND WRITE INTO 4 FILES SO IT CAN FIT TO GITHUB
 # Assume you have a large dataframe called `c2`
@@ -348,11 +348,11 @@ nrow(cdt1[cdt1$top_class==cdt1$clade,])
 # READ SPLIT CHUNKS
 
 # Read all 4 parts
-df_list <- lapply(1:4, function(i) read.csv(paste0("k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24_qChunks_v2_3_COMPUTED_CLADE_classes_part_", i, ".csv")))
+#df_list <- lapply(1:4, function(i) read.csv(paste0("k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24_qChunks_v2_3_COMPUTED_CLADE_classes_part_", i, ".csv")))
 
 # Combine them back into one dataframe
 #new_c2 <- do.call(rbind, df_list)
-c2 <- do.call(rbind, df_list)
+#c2 <- do.call(rbind, df_list)
 
 #all.equal(c2,new_c2)
 #nrow(c2)
