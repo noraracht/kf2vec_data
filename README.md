@@ -4,7 +4,8 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
 Populating...
 
 ## Raw data
-
+* Models
+* Input k-mer frequencies
 
 
 ## Summary data
