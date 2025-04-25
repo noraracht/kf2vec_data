@@ -32,6 +32,7 @@ Populating...
 * Placement of incomplete genomes
 
   * Controlled length fragments
+    
     The [controlled_fragments](https://github.com/noraracht/kf2vec_data/tree/main/controlled_fragments) directory contains multiple summary result files that serve as inputs to the script [incomplete_genomes_git_fragments.R](https://github.com/noraracht/kf2vec_data/blob/main/controlled_fragments/incomplete_genomes_git_fragments.R), which was used to produce the diagrams in Figures 3A and S6.
   
   * Contigs placement
