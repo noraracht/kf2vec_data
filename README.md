@@ -12,6 +12,7 @@ Populating...
 
 <!---This section contains summary data tables and scripts we used to process them.--->
 
+* Placement of full genomes
 
 * Comparison kf2vec vs CAFE 
   - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
@@ -24,7 +25,6 @@ Populating...
     
   - **HiFi reads.** Summary results for long-read placement are provided in the files [summary_hifi_six_models.pl_error_part1.csv.gz](https://github.com/noraracht/kf2vec_data/blob/main/hifi/summary_hifi_six_models.pl_error_part1.csv.gz) and [summary_hifi_six_models.pl_error_part2.csv.gz](https://github.com/noraracht/kf2vec_data/blob/main/hifi/summary_hifi_six_models.pl_error_part2.csv.gz), which should be unarchived using `gunzip`. hese files serve as input to the script [Summary_reads_placement_git_hifi.R](https://github.com/noraracht/kf2vec_data/blob/main/hifi/Summary_reads_placement_git_hifi.R), which produced Figures 3C and 3D.
     
-  - Placement of full genomes
 
     
 * CAMI2 analysis
