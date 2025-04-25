@@ -18,7 +18,7 @@ Populating...
     
 * Phylogenetic placement
   - Results from contig placement analysis. Summary results for contig placement are provided in the file [summary_TOL_full_genome_contigs_six_models.pl_error.gz](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/summary_TOL_full_genome_contigs_six_models.pl_error.gz), which should be unarchived using `gunzip`.  The resulting table serves as input to the script [placement_err_dev_queries_git_contigs.R](https://github.com/noraracht/kf2vec_data/blob/main/tol_contigs/placement_err_dev_queries_git_contigs.R), which generates the diagrams shown in Figures 3B and S8–S9.
-  - Placement of HiFi reads
+  - Placement of HiFi reads Figures 3C and 3D
   - Placemnt of full genomes
 
     
