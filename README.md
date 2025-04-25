@@ -15,7 +15,7 @@ Populating...
 * Placement of full genomes
   * Variable k-mer length
     - The directory [kmer_len](https://github.com/noraracht/kf2vec_data/tree/main/kmer_len) contains results for the variable k-mer length experiment, and the script [incomplete_genomes_git_kmerlen.R](https://github.com/noraracht/kf2vec_data/blob/main/kmer_len/incomplete_genomes_git_kmerlen.R) that was used to create Figure 2B.
-  * Parameters
+  * Model parameters
     - Fig S1
 * Effect of divide and conquer
 
