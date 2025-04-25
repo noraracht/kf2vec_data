@@ -1,0 +1,60 @@
+sample_id	Taxon ID	Scientific name	Taxonomic rank	Purity (bp)	Completeness (bp)	Bin size (bp)	True positives (bp)	True size (bp)	Purity (seq)	Completeness (seq)	Bin size (seq)	True positives (seq)	True size (seq)	Filtered
+marmgCAMI2_short_read_pooled_gold_standard_assembly	2	Bacteria	superkingdom	0.9983966905957823	0.9629555023325955	1166033203	1164163691	1208948584	0.9978708303761533	0.9578660517765434	18317	18278	19082	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	2157	Archaea	superkingdom	1.0	0.8517533913440409	54545616	54545616	64039212	1.0	0.7829596412556054	873	873	1115	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	10239	Viruses	superkingdom		0.0	0	0	449662		0.0	0	0	15	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1930617	Calditrichaeota	phylum	1.0	1.0	4978230	4978230	4978230	1.0	1.0	11	11	11	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1297	Deinococcus-Thermus	phylum	0.9861597079135996	1.0	2300963	2269117	2269117	0.3333333333333333	1.0	3	1	1	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	201174	Actinobacteria	phylum	0.9995045145194713	1.0	66409615	66376710	66376710	0.9970873786407767	1.0	1030	1027	1027	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	28889	Crenarchaeota	phylum	0.9438717392413001	1.0	8745434	8254568	8254568	0.989247311827957	1.0	93	92	92	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	508458	Synergistetes	phylum	1.0	1.0	1999613	1999613	1999613	1.0	1.0	2	2	2	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	32066	Fusobacteria	phylum	1.0	1.0	3132217	3132217	3132217	1.0	1.0	3	3	3	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	203691	Spirochaetes	phylum	0.9980981320433908	1.0	6354805	6342719	6342719	0.9333333333333333	1.0	15	14	14	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	200918	Thermotogae	phylum	1.0	1.0	7419416	7419416	7419416	1.0	1.0	127	127	127	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1090	Chlorobi	phylum	1.0	1.0	6029797	6029797	6029797	1.0	1.0	2	2	2	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	203682	Planctomycetes	phylum	1.0	1.0	123116	123116	123116	1.0	1.0	10	10	10	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	200783	Aquificae	phylum	1.0	1.0	1983735	1983735	1983735	1.0	1.0	11	11	11	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1239	Firmicutes	phylum	0.990551276609521	0.9998132343026609	55583911	55058714	55068999	0.9718969555035128	0.9991974317817014	1281	1245	1246	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1224	Proteobacteria	phylum	0.9999697554157578	0.9995224136530182	848647804	848622137	849027621	0.9998532756217445	0.9976575653319669	13631	13629	13661	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	976	Bacteroidetes	phylum	0.9999082264596876	0.9773349023829395	155894607	155880300	159495276	0.9995171414775471	0.9904306220095693	2071	2070	2090	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	28890	Euryarchaeota	phylum	0.9971374759271989	0.9309839803742167	45284510	45154882	48502319	0.9893048128342246	0.8767772511848341	748	740	844	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	200930	Deferribacteres	phylum	1.0	0.9028740199249848	1736057	1736057	1922812	1.0	0.8764044943820225	78	78	89	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	544448	Tenericutes	phylum	1.0	0.8291175020787265	1557542	1557542	1878554	1.0	0.5	1	1	2	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	651137	Thaumarchaeota	phylum	1.0	0.07592948731634837	515672	515672	6791459	1.0	0.1797752808988764	32	32	178	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1117	Cyanobacteria	phylum		0.0	0	0	40900652		0.0	0	0	786	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	192989	Nanoarchaeota	phylum		0.0	0	0	490866		0.0	0	0	1	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	68297	Dictyoglomi	phylum	0.0		1432113	0	0	0.0		26	0	0	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	188708	Thermotogae	class	1.0	1.0	7419416	7419416	7419416	1.0	1.0	127	127	127	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	187857	Aquificae	class	1.0	1.0	1983735	1983735	1983735	1.0	1.0	11	11	11	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	188787	Deinococci	class	0.9861597079135996	1.0	2300963	2269117	2269117	0.3333333333333333	1.0	3	1	1	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	191410	Chlorobia	class	1.0	1.0	6029797	6029797	6029797	1.0	1.0	2	2	2	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	183980	Archaeoglobi	class	1.0	1.0	4186031	4186031	4186031	1.0	1.0	78	78	78	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1937959	Saprospiria	class	1.0	1.0	4399929	4399929	4399929	1.0	1.0	9	9	9	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	183963	Halobacteria	class	1.0	1.0	10183376	10183376	10183376	1.0	1.0	126	126	126	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	183968	Thermococci	class	0.9991575829204549	1.0	12684928	12674242	12674242	0.9963768115942029	1.0	276	275	275	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	666505	Phycisphaerae	class	1.0	1.0	123116	123116	123116	1.0	1.0	10	10	10	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	224756	Methanomicrobia	class	1.0	1.0	13295861	13295861	13295861	1.0	1.0	163	163	163	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	84992	Acidimicrobiia	class	1.0	1.0	4830178	4830178	4830178	1.0	1.0	1	1	1	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	203692	Spirochaetia	class	0.9980981320433908	1.0	6354805	6342719	6342719	0.9333333333333333	1.0	15	14	14	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	200643	Bacteroidia	class	1.0	1.0	5132065	5132065	5132065	1.0	1.0	1	1	1	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	203490	Fusobacteriia	class	1.0	1.0	3132217	3132217	3132217	1.0	1.0	3	3	3	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	183924	Thermoprotei	class	1.0	1.0	8254568	8254568	8254568	1.0	1.0	92	92	92	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	183967	Thermoplasmata	class	1.0	1.0	1584791	1584791	1584791	1.0	1.0	1	1	1	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1760	Actinobacteria	class	0.9996513123700623	1.0	61568000	61546532	61546532	0.9980544747081712	1.0	1028	1026	1026	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1553900	Oligoflexia	class	1.0	1.0	6123638	6123638	6123638	1.0	1.0	133	133	133	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	91061	Bacilli	class	0.9937438681036542	1.0	36929848	36698810	36698810	0.980788675429727	1.0	989	970	970	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	649775	Synergistia	class	1.0	1.0	1999613	1999613	1999613	1.0	1.0	2	2	2	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1962850	Calditrichae	class	1.0	1.0	4978230	4978230	4978230	1.0	1.0	11	11	11	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	28211	Alphaproteobacteria	class	0.9999200386883347	0.9994410354086618	153011497	152999262	153084831	0.9996363636363637	0.9978221415607985	2750	2749	2755	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	28221	Deltaproteobacteria	class	1.0	0.9994352580756103	63200252	63200252	63235964	1.0	0.9896907216494846	288	288	291	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1236	Gammaproteobacteria	class	0.9953060132508159	0.999371969279886	602060285	599234222	599610796	0.9988949166164356	0.9969918780707911	9954	9943	9973	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	117743	Flavobacteriia	class	0.9999130545075541	0.9992779469104126	130955610	130944224	131038841	0.9994435169727324	0.9961175818080976	1797	1796	1803	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	186801	Clostridia	class	0.9842193111203753	0.9986985980383762	18640441	18346282	18370189	0.9415807560137457	0.9927536231884058	291	274	276	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	768503	Cytophagia	class	0.999071396299462	0.9966965845583895	15407003	15392696	15443713	0.9962121212121212	0.9850187265917603	264	263	267	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	29547	Epsilonproteobacteria	class	0.9894026002337208	0.9965564278638379	6715704	6644535	6667495	0.9790794979079498	0.9915254237288136	239	234	236	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	183939	Methanococci	class	1.0	0.9899483150192047	3219895	3219895	3252589	1.0	0.9795918367346939	96	96	98	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	68337	Deferribacteres	class	1.0	0.9028740199249848	1736057	1736057	1922812	1.0	0.8764044943820225	78	78	89	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	28216	Betaproteobacteria	class	0.9956792854405356	0.8586648826635269	17510761	17435102	20304897	0.9773584905660377	0.9487179487179487	265	259	273	False
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1051663	Nanohaloarchaea	class		0.0	0	0	1118416		0.0	0	0	3	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	203486	Dictyoglomia	class	0.0		1167572	0	0	0.0		7	0	0	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	1737404	Tissierellia	class	0.0		13622	0	0	0.0		1	0	0	True
+marmgCAMI2_short_read_pooled_gold_standard_assembly	84998	Coriobacteriia	class	0.0		11437	0	0	0.0		1	0	0	True
