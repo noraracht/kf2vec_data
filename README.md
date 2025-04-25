@@ -26,7 +26,7 @@ Populating...
     - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
 
   * Comparison to DEPP
-     - The dire Figures 2E and 2F.
+     - The Figures 2E and 2F.
 
 
 * Placement of incomplete genomes
