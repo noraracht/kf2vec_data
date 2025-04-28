@@ -23,20 +23,19 @@ Populating...
   * Training progression
     - The directory [train_test_err](https://github.com/noraracht/kf2vec_data/tree/main/train_test_err) contains script [incomplete_genomes_train_test_err.R](https://github.com/noraracht/kf2vec_data/blob/main/train_test_err/incomplete_genomes_train_test_err.R) and data to generate diagrams in Figures S2A and S2B.
 
+
 * Benchmarking
-    * Prokaryotic genome 
+   
+  * Comparison to CAFE (prokaryotic genomes)
+    - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
 
-      * Comparison to CAFE 
-        - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
+  * Comparison to DEPP (prokaryotic genomes)
+    - The repository [deep](https://github.com/noraracht/kf2vec_data/tree/main/depp) contains data and the script [placement_err_qual_metrics_git_depp.R](https://github.com/noraracht/kf2vec_data/blob/main/depp/placement_err_qual_metrics_git_depp.R) to produce diagrams in Figures 2E, 2F, S4, S5 and S10.
 
-        * Comparison to DEPP
-         - The repository [deep](https://github.com/noraracht/kf2vec_data/tree/main/depp) contains data and the script [placement_err_qual_metrics_git_depp.R](https://github.com/noraracht/kf2vec_data/blob/main/depp/placement_err_qual_metrics_git_depp.R) to produce diagrams in Figures 2E, 2F, S4, S5 and S10.
-
-    * Eukaryotic genomes
-      
-      * Comparison to EPA-ng (fungi)
+  * Comparison to EPA-ng (fungi)
         
-      * Comparison to Skmer (insects)
+  * Comparison to Skmer (insects)
+
 
 * Placement of incomplete genomes
   
