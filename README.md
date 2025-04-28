@@ -21,7 +21,7 @@ Populating...
     - The directory [kmer_len](https://github.com/noraracht/kf2vec_data/tree/main/kmer_len) contains results for the variable k-mer length experiment, and the script [incomplete_genomes_git_kmerlen.R](https://github.com/noraracht/kf2vec_data/blob/main/kmer_len/incomplete_genomes_git_kmerlen.R) that was used to create Figure 2B.
   
   * Training progression
-    - The directory contains
+    - The directory [train_test_err](https://github.com/noraracht/kf2vec_data/tree/main/train_test_err) contains script [incomplete_genomes_train_test_err.R](https://github.com/noraracht/kf2vec_data/blob/main/train_test_err/incomplete_genomes_train_test_err.R) and data to generate diagrams in Figures S2A and S2B.
 
 * Benchmarking
 
