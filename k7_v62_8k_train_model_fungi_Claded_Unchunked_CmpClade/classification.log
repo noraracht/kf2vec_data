@@ -1,0 +1,20 @@
+
+==> Input arguments...
+
+Feature directory: /expanse/lustre/scratch/erachtma/temp_project/tree_of_life/fungi_dataset/fungi_kf_queries
+Model: /expanse/lustre/scratch/erachtma/temp_project/tree_of_life/k7_v62_8k_train_model_fungi_Claded_Unchunked
+Seed: 28
+
+==> Building model...
+
+Number of Classes: 3
+
+==> Preparing Input Data...
+
+
+==> Compute model output...
+
+
+==> Classification Completed!
+
+Time: 00:00:16

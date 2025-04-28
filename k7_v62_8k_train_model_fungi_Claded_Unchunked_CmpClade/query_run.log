@@ -1,0 +1,54 @@
+
+==> Input arguments...
+
+Query directory: /expanse/lustre/scratch/erachtma/temp_project/tree_of_life/fungi_dataset/fungi_kf_queries
+Model directory: /expanse/lustre/scratch/erachtma/temp_project/tree_of_life/k7_v62_8k_train_model_fungi_Claded_Unchunked
+Class information: /expanse/lustre/scratch/erachtma/temp_project/kmer_placemnt/variable_k/k7_v62_8k_train_model_fungi_Claded_Unchunked_CmpClade
+Seed: 28
+
+==> Querying...
+
+Total subtrees to query: 3
+
+==> Working on subtree 0...
+
+
+==> Building model...
+
+
+==> Compute model output...
+
+
+==> Computation is completed for subtree 0!
+
+Time: 00:00:07
+
+==> Working on subtree 1...
+
+
+==> Building model...
+
+
+==> Compute model output...
+
+
+==> Computation is completed for subtree 1!
+
+Time: 00:00:08
+
+==> Working on subtree 2...
+
+
+==> Building model...
+
+
+==> Compute model output...
+
+
+==> Computation is completed for subtree 2!
+
+Time: 00:00:16
+
+==> Computation Completed!
+
+Time: 00:00:16
