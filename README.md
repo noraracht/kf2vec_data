@@ -33,7 +33,7 @@ Populating...
     - The repository [depp](https://github.com/noraracht/kf2vec_data/tree/main/depp) contains data and the script [placement_err_qual_metrics_git_depp.R](https://github.com/noraracht/kf2vec_data/blob/main/depp/placement_err_qual_metrics_git_depp.R) to produce diagrams in Figures 2E, 2F, S4, S5 and S10.
 
   * Comparison to EPA-ng
-    - Repository contains [fungi_results](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked_CmpClade) contains results for fungal dataset.
+    - Repository contains [fungi_results](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked_CmpClade) results on fungal dataset (eukaryotic example) that was used for comparison.
         
   * Comparison to Skmer
 
