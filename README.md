@@ -9,7 +9,7 @@ Populating...
 
   * Eukaryotes
     - [Fungi](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked)
-    - Insects
+    - Insects(https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_try2)
 
 * Input k-mer frequencies (uplodad in progress)
 
@@ -42,6 +42,7 @@ Populating...
     - Repository contains [fungi_results](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked_CmpClade) results on a fungal dataset that was used for comparison.
         
   * Comparison to Skmer
+    - Repository contains [insects_results](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_CmpClade_try2) results on a insect dataset that was used for benchmarking.
 
 
 * Placement of incomplete genomes
