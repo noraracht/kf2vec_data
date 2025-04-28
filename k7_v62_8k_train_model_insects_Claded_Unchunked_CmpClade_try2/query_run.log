@@ -1,0 +1,41 @@
+
+==> Input arguments...
+
+Query directory: /expanse/lustre/scratch/erachtma/temp_project/tree_of_life/insect_genomes/query_set_kf
+Model directory: /expanse/lustre/scratch/erachtma/temp_project/tree_of_life/k7_v62_8k_train_model_insects_Claded_Unchunked_try2
+Class information: /expanse/lustre/scratch/erachtma/temp_project/kmer_placemnt/variable_k/k7_v62_8k_train_model_insects_Claded_Unchunked_CmpClade_try2
+Seed: 28
+
+==> Querying...
+
+Total subtrees to query: 2
+
+==> Working on subtree 1...
+
+
+==> Building model...
+
+
+==> Compute model output...
+
+
+==> Computation is completed for subtree 1!
+
+Time: 00:00:19
+
+==> Working on subtree 0...
+
+
+==> Building model...
+
+
+==> Compute model output...
+
+
+==> Computation is completed for subtree 0!
+
+Time: 00:00:22
+
+==> Computation Completed!
+
+Time: 00:00:22
