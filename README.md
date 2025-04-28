@@ -24,7 +24,7 @@ Populating...
     - The directory [train_test_err](https://github.com/noraracht/kf2vec_data/tree/main/train_test_err) contains script [incomplete_genomes_train_test_err.R](https://github.com/noraracht/kf2vec_data/blob/main/train_test_err/incomplete_genomes_train_test_err.R) and data to generate diagrams in Figures S2A and S2B.
 
 * Benchmarking
-    *Prokaryotic genome 
+    * Prokaryotic genome 
 
       * Comparison to CAFE 
         - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
