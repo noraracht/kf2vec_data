@@ -13,10 +13,13 @@ Populating...
 <!---This section contains summary data tables and scripts we used to process them.--->
 
 * Placement of full genomes
+  
+  * Model parameters
+    - The directory [full_genomes](https://github.com/noraracht/kf2vec_data/tree/main/full_genomes) contains results for placement of full genomes, including effects of query novelty, divide-and-conquer and effect of chunking on placement of full genomes. These summary tables serve as an input into the script [incomplete_genomes_git_full_genomes.R](https://github.com/noraracht/kf2vec_data/blob/main/full_genomes/incomplete_genomes_git_full_genomes.R) and were used to generate plot in Figures 2A, S1, S3 and S7.
+      
   * Variable k-mer length
     - The directory [kmer_len](https://github.com/noraracht/kf2vec_data/tree/main/kmer_len) contains results for the variable k-mer length experiment, and the script [incomplete_genomes_git_kmerlen.R](https://github.com/noraracht/kf2vec_data/blob/main/kmer_len/incomplete_genomes_git_kmerlen.R) that was used to create Figure 2B.
-  * Model parameters
-    - Fig S1
+  
 * Effect of divide and conquer
 
 
