@@ -25,7 +25,7 @@ Populating...
     - [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v42_8k_s28_train_model_65K_TOL_ChunksExp_MODEL)
 
 
-  * Eukaryotes
+  * Eukaryotes (cladded/unchunked)
     - [Fungi](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked)
     - [Insects](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_try2)
       
