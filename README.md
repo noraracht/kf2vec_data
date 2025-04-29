@@ -19,6 +19,8 @@ Populating...
   * Wol19 (full)
     - [Cladded/unchunked]()
     - [Uncladded/unchunked]()
+    
+    For uncladded model, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
 
   * Wol23
