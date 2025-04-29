@@ -6,9 +6,9 @@ Populating...
 ## Raw data
 
 * Models
-  
-  * Wol19
 
+
+  * [Wol19](https://github.com/noraracht/kf2vec_Wol19_Models)
     - [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24)
     - [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Global)
     - [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Chunks)
@@ -18,12 +18,15 @@ Populating...
 
 
   * Wol23
+    - [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v42_8k_s28_train_model_65K_TOL_ChunksExp_MODEL)
+
 
   * Eukaryotes
     - [Fungi](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked)
     - [Insects](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_try2)
+      
 
-* Input k-mer frequencies (uplodad in progress)
+* Inputs k-mer frequencies and genomes (uplodad in progress)
 
 
 ## Summary data
