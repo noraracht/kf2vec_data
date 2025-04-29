@@ -8,13 +8,17 @@ Populating...
 * Models
 
 
-  * Wol19
+  * Wol19 (with queries removed)
     - [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24)
     - [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Global)
     - [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Chunks)
     - [Uncladded/chunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Global_Chunks)
   
     For uncladded models, please `gunzip embeddings_subtree_0.csv.gz` before usage.
+
+  * Wol19 (full)
+    - [Cladded/unchunked]()
+    - [Uncladded/unchunked]()
 
 
   * Wol23
