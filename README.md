@@ -17,8 +17,8 @@ Populating...
     For uncladded models, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
   * Wol19 (full)
-    - [Cladded/unchunked]()
-    - [Uncladded/unchunked]()
+    - [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Claded_Unchunked_MODEL)
+    - [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Uncladed_Unchunked_MODEL)
     
     For uncladded model, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
