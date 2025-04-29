@@ -29,7 +29,7 @@ Populating...
 * Inputs k-mer frequencies and genomes (uplodad in progress)
 
 
-## Summary data
+## Results
 
 <!---This section contains summary data tables and scripts we used to process them.--->
 
