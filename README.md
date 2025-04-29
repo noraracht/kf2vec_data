@@ -6,6 +6,15 @@ Populating...
 ## Raw data
 
 * Models
+* 
+  * Wol19
+    
+    - [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24)
+    - [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Global). Please `gunzip embeddings_subtree_0.csv.gz` before usage.
+    - [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Chunks)
+    - [Uncladded/chunked]()
+
+  * Wol23
 
   * Eukaryotes
     - [Fungi](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked)
