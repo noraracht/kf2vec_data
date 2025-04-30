@@ -5,23 +5,28 @@ Populating...
 
 ## Raw data
 
-* Genome assemblies
-
-  * WoL19([backbone and queries](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected))
-  * WoL23 queries 
-
-
 * Inputs k-mer frequencies
   *  Query sets
       - WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
       - WoL23 full genome (D2)
       - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
       - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
+      - HiFi long reads (D5)
+      - CAMI2 queries (D6)
+      - Fungi (D7)
+      - Insects (D8)
 
   *  Backbone sets (full genomes)
       - WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
       - WoL19 (10575) is a combination of frequencies from WoL19 (10075) and D1 query set
       - WoL23 (50762)
+
+       
+* Genome assemblies
+
+  * [WoL19(backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
+  * WoL23 queries 
+
 
 
 ## Models
