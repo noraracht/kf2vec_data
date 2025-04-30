@@ -18,7 +18,7 @@ Populating...
 
   *  Backbone sets (full genomes)
       - [WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
-      - WoL19 (10575) is a combination of frequencies from WoL19 (10075) and D1 query set
+      - WoL19 (10575) is a combination of frequencies from [WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf) and [D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf) query set
       - WoL23 (50762)
 
        
