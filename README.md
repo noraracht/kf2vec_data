@@ -34,15 +34,15 @@ Populating...
 
 * Inputs k-mer frequencies (uplodad in progress)
   *  Query sets
-    - [Wol19 full genomes (D1)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf)
-    - [Wol23 full genome (D2)]
-    - [Contigs (D3)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf)
-    - [Controlled length fragments (D4)](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3)
+     - Wol19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
+     - Wol23 full genome (D2)
+     - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
+     - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
 
   *  Backbone sets (full genomes)
-    - [Wol19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
-    - Wol19 (10575) is a combination of frequencies from Wol19 (10075) and D1 queries
-    - WoL23 (50762)
+     - [Wol19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
+     - Wol19 (10575) is a combination of frequencies from Wol19 (10075) and D1 queries
+     - WoL23 (50762)
 
 
 ## Results
