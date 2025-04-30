@@ -5,27 +5,28 @@ Populating...
 
 ## Raw data
 
-* [WoL19 genome assemblies (backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
-* WoL23 queries genome assemblies
+* Genome assemblies
+
+  * WoL19([backbone and queries](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected))
+  * WoL23 queries 
 
 
+* Inputs k-mer frequencies
+  *  Query sets
+      - WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
+      - WoL23 full genome (D2)
+      - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
+      - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
 
-## Inputs k-mer frequencies
-*  Query sets
-   * WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
-   * WoL23 full genome (D2)
-   * Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
-   * Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
-
-*  Backbone sets (full genomes)
-  * [WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
-  * WoL19 (10575) is a combination of frequencies from WoL19 (10075) and D1 query set
-  * WoL23 (50762)
+  *  Backbone sets (full genomes)
+      - WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
+      - WoL19 (10575) is a combination of frequencies from WoL19 (10075) and D1 query set
+      - WoL23 (50762)
 
 
 ## Models
 
-  * WoL19 (with queries removed)
+* WoL19 (with queries removed)
     * [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Clades_s24)
     * [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Global)
     * [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol19_Models/tree/main/k7_v37_8k_s28_TrainClassf_10K_TOL_Chunks)
@@ -33,18 +34,18 @@ Populating...
   
     For uncladded models, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
-  * WoL19 (full)
+* WoL19 (full)
     * [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Claded_Unchunked_MODEL)
     * [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Uncladed_Unchunked_MODEL)
     
     For uncladded model, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
 
-  * WoL23
+* WoL23
     * [Cladded/chunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v42_8k_s28_train_model_65K_TOL_ChunksExp_MODEL)
 
 
-  * Eukaryotes (cladded/unchunked)
+* Eukaryotes (cladded/unchunked)
     * [Fungi](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked)
     * [Insects](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_try2)
       
