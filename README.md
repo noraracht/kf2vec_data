@@ -5,7 +5,25 @@ Populating...
 
 ## Raw data
 
-* Models
+* [WoL19 genome assemblies (backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
+* WoL23 queries genome assemblies
+
+
+
+## Inputs k-mer frequencies (uplodad in progress)
+*  Query sets
+   * WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
+   * WoL23 full genome (D2)
+   * Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
+   * Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
+
+*  Backbone sets (full genomes)
+  * [WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
+  * WoL19 (10575) is a combination of frequencies from WoL19 (10075) and D1 query set
+  * WoL23 (50762)
+
+
+## Models
 
 
   * WoL19 (with queries removed)
@@ -32,17 +50,6 @@ Populating...
     - [Insects](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_try2)
       
 
-* Inputs k-mer frequencies (uplodad in progress)
-  *  Query sets
-     - WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
-     - WoL23 full genome (D2)
-     - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
-     - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
-
-  *  Backbone sets (full genomes)
-     - [WoL19 (10075)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
-     - WoL19 (10575) is a combination of frequencies from WoL19 (10075) and D1 query set
-     - WoL23 (50762)
 
 
 ## Results
