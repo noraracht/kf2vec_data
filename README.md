@@ -11,7 +11,7 @@ Populating...
       - WoL23 full genome (D2)
       - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
       - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
-      - HiFi long reads (D5)
+      - HiFi long reads ([D5](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_hifi))
       - CAMI2 queries (D6)
       - Fungi (D7)
       - Insects (D8)
