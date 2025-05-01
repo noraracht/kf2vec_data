@@ -29,7 +29,7 @@ Populating...
   * [WoL23 queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
 
 
-* Additional information required for training and evaluation
+* Additional information required for training and evaluation (phylogenies, clade data, etc.)
   * [Fungi](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_data)
 
 
