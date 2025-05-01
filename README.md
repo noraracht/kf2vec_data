@@ -33,6 +33,7 @@ Populating...
 
 * Additional information required for training and evaluation (phylogenies, metadata, etc.)
   * [Fungi](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_data)
+  * [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_data)
 
 
 
