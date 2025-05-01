@@ -92,7 +92,7 @@ Populating...
     - Repositories contain results for [kf2vec](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked_CmpClade) compared to [EPA-ng](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_epa_ng_REPEAT_species_backbone) on a fungal dataset that was used to compute statistics in Table 2. 
         
   * Comparison to Skmer
-    - Repository contains [insects_results](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_CmpClade_try2) results on a insect dataset that was used for evaluation.
+    - Repositories contain placement results comparison between [kf2vec](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_insects_Claded_Unchunked_CmpClade_try2) and [Skmer](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_skmer) on an insect dataset. Statistics from these data were reported in Table 2.
 
 
 * Placement of incomplete genomes
