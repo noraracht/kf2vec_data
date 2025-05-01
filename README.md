@@ -27,6 +27,7 @@ Populating...
 
   * [WoL19(backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
   * [WoL23 queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
+  * [Fungi](https://zenodo.org/records/3970286) dataset was taken from this [study](https://www.sciencedirect.com/science/article/pii/S0960982221001391?via%3Dihub).
 
 
 * Additional information required for training and evaluation (phylogenies, metadata, etc.)
