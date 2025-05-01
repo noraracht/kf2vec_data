@@ -25,7 +25,7 @@ Populating...
 * Genome assemblies
 
   * [WoL19(backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
-  * WoL23 queries 
+  * [WoL23 queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
 
 
 
