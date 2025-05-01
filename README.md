@@ -20,6 +20,7 @@ Populating...
       - [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
       - WoL19 (10570) is a combination of frequencies from [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf) and [D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf) query set
       - WoL23 (50762)
+      - [Fungi](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_kf_backbone)
 
        
 * Genome assemblies
