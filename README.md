@@ -14,7 +14,7 @@ Populating...
       - HiFi long reads ([D5](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_hifi))
       - CAMI2 queries (D6)
       - Fungi ([D7](https://github.com/noraracht/kf2vec_inputs2/blob/main/fungi_kf_queries.tar))
-      - Insects (D8)
+      - Insects ([D8](https://github.com/noraracht/kf2vec_inputs2/blob/main/insects_kf_queries.tar))
 
   *  Backbone sets (full genomes)
       - [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
