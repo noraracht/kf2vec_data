@@ -24,7 +24,7 @@ Populating...
       - [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_kf_backbone)
 
   *  Backbone sets (chunked genomes)
-      - WoL19 (10070)
+      - [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs2/tree/main/p_backbone_kf)
       - WoL23 (50762)
        
 * Genome assemblies
