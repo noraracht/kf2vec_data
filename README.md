@@ -8,7 +8,7 @@ Populating...
 * Inputs k-mer frequencies
   *  Query sets
       - WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
-      - WoL23 full genome ([D2](https://github.com/noraracht/kf2vec_inputs2/blob/main/genomes_q2_kf.tar))
+      - DEPP full genome ([D2](https://github.com/noraracht/kf2vec_inputs2/blob/main/genomes_q2_kf.tar))
       - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
       - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
       - HiFi long reads ([D5](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_hifi))
@@ -29,7 +29,7 @@ Populating...
 * Genome assemblies
 
   * [WoL19(backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
-  * [WoL23 queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
+  * [DEPP queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
   * [Fungi](https://zenodo.org/records/3970286) dataset was taken from this [study](https://www.sciencedirect.com/science/article/pii/S0960982221001391?via%3Dihub)
   * [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_assemblies)
 
@@ -39,10 +39,12 @@ Populating...
       - Input for training [cladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/tol19_train_inputs_cladded) model
       - Input for training [uncladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/tol19_train_inputs_uncladded) model
       - [Placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/tol19_placement_eval) evaluation
-  * WoL23 (for DEPP experiment)
+  * WoL19 (10570) (for DEPP experiment)
       - Input for training [cladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/wol23_depp_inputs_cladded) model
       - Input for training [uncladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/wol23_depp_inputs_uncladded) model
       - [Placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/wol23_depp_placement_eval) evalution
+  * WoL23 (50762) (for CAMI2 experiment)
+      - Input for training
   * Fungi [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_placement_eval) evaluation
   * Insects [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_placement_eval) evaluation
 
