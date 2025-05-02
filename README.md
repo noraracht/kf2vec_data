@@ -43,7 +43,9 @@ Populating...
       - Input for training [cladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/wol23_depp_inputs_cladded) model
       - Input for training [uncladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/wol23_depp_inputs_uncladded) model
       - [Placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/wol23_depp_placement_eval) evalution
-  * Fungi [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_placement_eval) evaluation
+  * Fungi
+      - Input for [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_train_inputs)
+      - [Placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_placement_eval) evaluation
   * Insects [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_placement_eval) evaluation
 
 
