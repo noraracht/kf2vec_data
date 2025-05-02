@@ -8,7 +8,7 @@ Populating...
 * Inputs k-mer frequencies
   *  Query sets
       - WoL19 full genomes ([D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf))
-      - DEPP full genome ([D2](https://github.com/noraracht/kf2vec_inputs2/blob/main/genomes_q2_kf.tar))
+      - DEPP full genomes ([D2](https://github.com/noraracht/kf2vec_inputs2/blob/main/genomes_q2_kf.tar))
       - Contigs ([D3](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_contigs_kf))
       - Controlled length fragments ([D4](https://github.com/noraracht/kf2vec_inputs/tree/main/complete_queries_v2_3))
       - HiFi long reads ([D5](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_hifi))
@@ -19,6 +19,7 @@ Populating...
   *  Backbone sets (full genomes)
       - [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
       - WoL19 (10570) is a combination of frequencies from [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf) and [D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf) query set
+      - WoL23 (50762)
       - [Fungi](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_kf_backbone)
       - [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_kf_backbone)
 
@@ -28,7 +29,7 @@ Populating...
        
 * Genome assemblies
 
-  * [WoL19(backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
+  * [WoL19 (backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
   * [DEPP queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
   * [Fungi](https://zenodo.org/records/3970286) dataset was taken from this [study](https://www.sciencedirect.com/science/article/pii/S0960982221001391?via%3Dihub)
   * [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_assemblies)
