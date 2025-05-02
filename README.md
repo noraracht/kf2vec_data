@@ -19,21 +19,32 @@ Populating...
   *  Backbone sets (full genomes)
       - [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf)
       - WoL19 (10570) is a combination of frequencies from [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_backbone_full_genome_kf) and [D1](https://github.com/noraracht/kf2vec_inputs/tree/main/10k_tol_queries_full_genome_kf) query set
-      - WoL23 (50762)
       - [Fungi](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_kf_backbone)
       - [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_kf_backbone)
 
+  *  Backbone sets (chunked genomes)
+      - WoL19 (10070)
+      - WoL23 (50762)
        
 * Genome assemblies
 
   * [WoL19(backbone and queries)](https://github.com/noraracht/kf2vec_inputs/tree/main/ref_fasta_corrected)
   * [WoL23 queries](https://github.com/noraracht/kf2vec_inputs2/tree/main/genomes_q2)
-  * [Fungi](https://zenodo.org/records/3970286) dataset was taken from this [study](https://www.sciencedirect.com/science/article/pii/S0960982221001391?via%3Dihub).
+  * [Fungi](https://zenodo.org/records/3970286) dataset was taken from this [study](https://www.sciencedirect.com/science/article/pii/S0960982221001391?via%3Dihub)
+  * [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_assemblies)
 
 
 * Additional information required for training and evaluation (phylogenies, metadata, etc.)
-  * [Fungi](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_data)
-  * [Insects](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_data)
+  * WoL19
+      - Input for training [cladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/tol19_train_inputs_cladded) model
+      - Input for training [uncladded](https://github.com/noraracht/kf2vec_inputs2/tree/main/tol19_train_inputs_uncladded) model
+      - [Placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/tol19_placement_eval) evaluation
+  * WoL23 (for DEPP experiment)
+      - Input for training
+      - Input for training
+      - Placement evalution
+  * Fungi [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_placement_eval) evaluation
+  * Insects [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_placement_eval) evaluation
 
 
 
