@@ -50,6 +50,7 @@ Populating...
   * Insects [training](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_train_inputs) and [placement](https://github.com/noraracht/kf2vec_inputs2/tree/main/insects_placement_eval) evaluation
 
 
+* [Running time and memory](https://github.com/noraracht/kf2vec_inputs3/tree/main/benchmark_runtime_mem)
 
 ## Models
 
