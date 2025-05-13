@@ -1,8 +1,6 @@
 # kf2vec_data 
 Data and scripts used for validation of kf2vec software at https://github.com/noraracht/kf2vec.
 
-Populating...
-
 ## Raw data
 
 * Inputs k-mer frequencies
@@ -25,7 +23,7 @@ Populating...
 
   *  Backbone sets (chunked genomes)
       - [WoL19 (10070)](https://github.com/noraracht/kf2vec_inputs2/tree/main/p_backbone_kf)
-      - WoL23 (50762)
+      - WoL23 (50762)split into four repositories: [rep1](https://github.com/noraracht/kf2vec_inputs4/tree/main/65K_genomes_to_keep_chunks_kf), [rep2](https://github.com/noraracht/kf2vec_inputs5/tree/main/65K_genomes_to_keep_chunks_kf), [rep3](https://github.com/noraracht/kf2vec_inputs6/tree/main/65K_genomes_to_keep_chunks_kf), [rep7](https://github.com/noraracht/kf2vec_inputs7/tree/main/65K_genomes_to_keep_chunks_kf)
        
 * Genome assemblies
 
