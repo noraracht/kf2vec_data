@@ -61,6 +61,12 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
   
     For uncladded models, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
+* WoL19 (with queries removed, additionally removed 171 low-quality genomes based on GUNC scores)
+    * [Cladded/unchunked](https://github.com/noraracht/kf2vec_inputs9/tree/main/k7_v62_8k_train_model_HiQualBB_Claded_Unchunked_MODEL)
+    * [Uncladded/unchunked](https://github.com/noraracht/kf2vec_inputs9/tree/main/k7_v62_8k_train_model_HiQualBB_Uncladed_Unchunked_MODEL)
+   
+    For uncladded models, please `gunzip embeddings_subtree_0.csv.gz` before usage.
+
 * WoL19 (full)
     * [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Claded_Unchunked_MODEL)
     * [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Uncladed_Unchunked_MODEL)
