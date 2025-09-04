@@ -67,7 +67,7 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
    
     For uncladded models, please `gunzip embeddings_subtree_0.csv.gz` before usage.
 
-* WoL19 (full)
+* WoL19 (with queries included)
     * [Cladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Claded_Unchunked_MODEL)
     * [Uncladded/unchunked](https://github.com/noraracht/kf2vec_Wol23_Models/tree/main/k7_v57_8k_s28_train_model_10KFULL_TOL_Uncladed_Unchunked_MODEL)
     
@@ -136,4 +136,8 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
   
   * Full vs high-quality backbone sequences used for training (WoL19 phylogeny)
     - The directory [full_vs_high_qual_backbone](https://github.com/noraracht/kf2vec_inputs9/tree/main/full_vs_high_qual_backbone) contains results along with the script [D1_full_vs_highQ_BB.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/full_vs_high_qual_backbone/D1_full_vs_highQ_BB.R) used to generate plots shown in Figure S10.
+
+  * Effect of sequencing error (on long nanopore reads)
+    - The directory [revisions_ONT_reads_variable_err](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_ONT_reads_variable_err) contains results along with the script [var_ONT_err_compare.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_ONT_reads_variable_err/var_ONT_err_compare.R) used to generate plots shown in Figure S11.
+  
   
