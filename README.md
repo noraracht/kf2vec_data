@@ -136,7 +136,7 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
 * Additional validation experiments
   
   * Full vs high-quality backbone sequences used for training (WoL19 phylogeny)
-    - The directory [revisions_training_Wol19_highQualBB_vs_FullBB](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_training_Wol19_highQualBB_vs_FullBB) contains results along with the script [D1_full_vs_highQ_BB.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_training_Wol19_highQualBB_vs_FullBB/D1_full_vs_highQ_BB.R) used to generate plots shown in Figure S11.
+    - The directory [revisions_training_Wol19_highQualBB_vs_FullBB](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_training_Wol19_highQualBB_vs_FullBB) contains results along with the script [D1_full_vs_highQ_BB.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_training_Wol19_highQualBB_vs_FullBB/D1_full_vs_highQ_BB.R) used to generate plots shown in Figure S2A.
 
   * Effect of sequencing error on long nanopore reads
     - The directory [revisions_ONT_reads_variable_err](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_ONT_reads_variable_err) contains results along with the script [var_ONT_err_compare.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_ONT_reads_variable_err/var_ONT_err_compare.R) used to generate plots shown in Figure S12.
