@@ -143,5 +143,8 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
    
   * Distance comparison for contigs within vs across genomes
     - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Figure 3C and Table S8.
+   
+   * Benchmark (vs Kraken2)
+    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Table S9.
   
   
