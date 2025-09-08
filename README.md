@@ -142,9 +142,9 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
     - The directory [revisions_ONT_reads_variable_err](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_ONT_reads_variable_err) contains results along with the script [var_ONT_err_compare.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_ONT_reads_variable_err/var_ONT_err_compare.R) used to generate plots shown in Figure S12.
    
   * Distance comparison for contigs within vs across genomes
-    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Figure 3C, S10 and Table S3.
+    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Figure 3C, S10 and Table S5.
    
   * Benchmark (vs Kraken2)
-    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Table S9.
+    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Table S6.
   
   
