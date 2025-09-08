@@ -107,7 +107,7 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
     - The directory [cafe_dist_comparison](https://github.com/noraracht/kf2vec_data/tree/main/cafe_dist_comparison) contains the summary results along with the script [placement_err_cafe_vs_us_git.R](https://github.com/noraracht/kf2vec_data/blob/main/cafe_dist_comparison/placement_err_cafe_vs_us_git.R) used to generate plots shown in Figures 2C and 2D.
 
   * Comparison to DEPP
-    - The repository [depp](https://github.com/noraracht/kf2vec_data/tree/main/depp) contains data and the script [placement_err_qual_metrics_git_depp.R](https://github.com/noraracht/kf2vec_data/blob/main/depp/placement_err_qual_metrics_git_depp.R) to produce diagrams in Figures 2E, 2F, S4, S5 and S10.
+    - The repository [depp](https://github.com/noraracht/kf2vec_data/tree/main/depp) contains data and the script [placement_err_qual_metrics_git_depp.R](https://github.com/noraracht/kf2vec_data/blob/main/depp/placement_err_qual_metrics_git_depp.R) to produce diagrams in Figures 2E, 2F, S4, S5 and S11.
 
   * Comparison to EPA-ng
     - Repositories contain results for [kf2vec](https://github.com/noraracht/kf2vec_data/tree/main/k7_v62_8k_train_model_fungi_Claded_Unchunked_CmpClade) compared to [EPA-ng](https://github.com/noraracht/kf2vec_inputs2/tree/main/fungi_epa_ng_REPEAT_species_backbone) on a fungal dataset that was used to compute statistics in Table 2. 
@@ -142,7 +142,7 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
     - The directory [revisions_ONT_reads_variable_err](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_ONT_reads_variable_err) contains results along with the script [var_ONT_err_compare.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_ONT_reads_variable_err/var_ONT_err_compare.R) used to generate plots shown in Figure S12.
    
   * Distance comparison for contigs within vs across genomes
-    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Figure 3C and Table S8.
+    - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Figure 3C, S10 and Table S8.
    
   * Benchmark (vs Kraken2)
     - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Table S9.
