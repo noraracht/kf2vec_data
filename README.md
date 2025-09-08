@@ -145,6 +145,6 @@ Data and scripts used for validation of kf2vec software at https://github.com/no
     - The directory [revisions_within_across_dist_longest_contigs](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_within_across_dist_longest_contigs) contains results along with the script [pseudoF_statistics.R](https://github.com/noraracht/kf2vec_inputs9/blob/main/revisions_within_across_dist_longest_contigs/pseudoF_statistics.R) used to generate plots shown in Figure 3C, S10 and Table S5.
    
   * Benchmark (vs Kraken2)
-    - The directory [revisions_kf2vec_kraken_benchmark](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_kf2vec_kraken_benchmark) contains results for benchamrk kf2vec vs Kraken2 used to generate comparison in Table S6.
+    - The directory [revisions_kf2vec_kraken_benchmark](https://github.com/noraracht/kf2vec_inputs9/tree/main/revisions_kf2vec_kraken_benchmark) contains comparison results between kf2vec and Kraken2 that were used to generate Table S6.
   
   
